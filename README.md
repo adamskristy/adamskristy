@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristy!
 - 👀 I’m interested in Quality Engineering and Software Testing.
-- 🌱 I’m currently learning HTML, CSS and, Javascript.
+- 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on ...coming soon.
 - 📫 How to reach me by email at kladams128@gmail.com
 
