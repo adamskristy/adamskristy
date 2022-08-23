@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quality Engineering and Software Testing.
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on ...coming soon.
-- 📫 How to reach me by email at kladams128@gmail.com
+- 📫 How to reach me by email at kristyladams3@gmail.com
 
 <!---
 adamskristy/adamskristy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
