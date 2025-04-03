@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kristy!
-- 👀 I’m interested in Web Development, Software Engineering, and Quality Engineering.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and the MERN (MongoDB, Express, React, Node) stack at the Per Scholas Software Engineering Codebridge program.
+- 👀 I’m interested in...
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on ...coming soon.
 - 📫 How to reach me by email at kladams128@gmail.com
 
